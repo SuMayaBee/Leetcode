@@ -5,3 +5,5 @@ Welcome to my LeetCode problem solutions repository. Here, I meticulously docume
 ## Introduction
 
 In this repository, I maintain a record of my journey through the LeetCode problem set. My goal is to refine my problem-solving skills and build a comprehensive collection of solutions to a wide range of algorithmic challenges.
+
+Sheet: https://seanprashad.com/leetcode-patterns/?fbclid=IwAR3qcppUsqAnY0YT1q64iR8IY3Cm47ycYkiTYfk9lBO8nz6vNzEB_ZWTtig
